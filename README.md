@@ -2,7 +2,14 @@
 
 A Flutter ChatGPT wrapper using Firebase, BLoC, and SOLID principles. It includes authentication, chat functionality, and basic user session handling.
 ---
+---
 
+## 📸 Screenshots & Demo
+
+Access screenshots and demo video here:  
+👉 [Link](https://drive.google.com/drive/folders/1qKwZootY4k8yGDj0u4ad97wCVb8VKzV4?usp=sharing)
+
+---
 ## ✅ Completed Features
 
 - Guest Login
